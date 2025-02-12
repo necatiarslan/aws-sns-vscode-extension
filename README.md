@@ -7,7 +7,7 @@
 
 - **Publish Messages**: Publish messages to AWS Sns Topics with ease. 
 - **Manage Messages**: Save and reuse messages for later use.
-- **Filter and Search Logs**: Easily navigate through logs using built-in search and filter options.  
+- **Subscriptions**: Monitor subscriptions to AWS Sns Topics.
 - **AWS Profile Support**: Work with multiple AWS profiles seamlessly.  
 
 ## Sponsor Me
