@@ -384,7 +384,6 @@ export class SnsTreeView {
 		this.AwsProfile = selectedAwsProfile;
 		this.SaveState();
 		this.SetFilterMessage();
-		this.TestAwsConnection();
 	}
 
 	async UpdateAwsEndPoint() {
